@@ -1,2 +1,2 @@
-# Leetcode-questions
-I have solved leetcode question for the better understanding of data structures and algorithm.
+# DSA-questions
+I have solved DSA question for the better understanding.
